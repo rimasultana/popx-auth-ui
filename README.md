@@ -41,9 +41,9 @@ This is a React.js-based authentication user interface built as part of an inter
 
 | Login Page                          | Signup Page                         |
 |-------------------------------------|-------------------------------------|
-| ![Login](./screenshots/login.png)   | ![Signup](./screenshots/signup.png) |
+| ![Login](./screenshot/login.png)   | ![Signup](./screenshot/signup.png) |
 
-> Make sure the `login.png` and `signup.png` files are inside a `screenshots/` folder in the root of your project directory.
+
 
 ---
 
@@ -53,8 +53,19 @@ This is a React.js-based authentication user interface built as part of an inter
 
 ```bash
 git clone https://github.com/rimasultana/popx-auth-ui.git
-cd popx-auth-ui
-npm install
-# or if you're using bun
-bun install
-npm run dev
+
+**Install Dependencies**:
+   Depending on your package manager (npm, yarn, or Bun), install the necessary dependencies:
+
+   - If using **npm**:
+     ```bash
+     npm install
+     ```
+   - If using **yarn**:
+     ```bash
+     yarn
+     ```
+   - If using **Bun**:
+     ```bash
+     bun install
+     ```
