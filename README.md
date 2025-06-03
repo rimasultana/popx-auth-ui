@@ -43,8 +43,10 @@ This is a React.js-based authentication user interface built as part of an inter
 ```bash
 git clone https://github.com/rimasultana/popx-auth-ui.git
 cd popx-auth-ui
-## 📸 Screenshots
+
+### 📸 Screenshots
 
 | Login Page                          | Signup Page                         |
 |-------------------------------------|-------------------------------------|
 | ![Login](./screenshots/login.png)   | ![Signup](./screenshots/signup.png) |
+
