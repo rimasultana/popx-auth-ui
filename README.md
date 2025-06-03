@@ -1,14 +1,50 @@
-# React + Vite
+# PopX Auth UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React.js-based authentication user interface built as part of an interview qualifier task. The UI is designed based on a given Adobe XD design and focuses on pixel-perfect layout, smooth navigation, and responsive mobile-first interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🔗 Live Preview
 
-## Expanding the ESLint configuration
+👉 **Hosted Link:** [https://popx-auth-ui.vercel.app/](https://popx-auth-ui.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# popx-auth-ui
-# popx-auth-ui
+---
+
+### 🎨 Design Reference
+
+🔗 **Adobe XD Design:** [https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
+
+---
+
+## ✨ Features
+
+- ✅ Pixel-perfect implementation based on the given design
+- 📱 Mobile-first centered layout
+- 🔐 Login and Signup authentication pages
+- 🔁 Smooth navigation using React Router
+- 💅 Responsive design using Tailwind CSS
+- 🧹 Clean and maintainable code structure
+
+---
+
+## 🚀 Tech Stack
+
+- **React Router**
+- **Tailwind CSS**
+- **Vite**
+- **Vercel** (for deployment)
+
+---
+
+## 🛠️ Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/rimasultana/popx-auth-ui.git
+cd popx-auth-ui
+## 📸 Screenshots
+
+| Login Page                          | Signup Page                         |
+|-------------------------------------|-------------------------------------|
+| ![Login](./screenshots/login.png)   | ![Signup](./screenshots/signup.png) |
