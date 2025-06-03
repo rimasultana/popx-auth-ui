@@ -37,16 +37,6 @@ This is a React.js-based authentication user interface built as part of an inter
 
 ---
 
-## 📸 Screenshots
-
-| Login Page                          | Signup Page                         |
-|-------------------------------------|-------------------------------------|
-| ![Login](./screenshot/login.png)   | ![Signup](./screenshot/signup.png) |
-
-
-
----
-
 ## 🛠️ Getting Started
 
 ### 📦 Clone the repository
