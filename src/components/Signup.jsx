@@ -21,6 +21,7 @@ function Signup() {
             <input
               type="text"
               placeholder="Marry Doe"
+              required
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none"
             />
           </div>
@@ -30,8 +31,9 @@ function Signup() {
               Phone number<span className="text-red-500">*</span>
             </label>
             <input
-              type="text"
-              placeholder="Marry Doe"
+              type="number"
+              placeholder="Enter phone number"
+              required
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none"
             />
           </div>
@@ -42,7 +44,8 @@ function Signup() {
             </label>
             <input
               type="email"
-              placeholder="Marry Doe"
+              placeholder="Enter email address"
+              required
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none"
             />
           </div>
@@ -53,7 +56,8 @@ function Signup() {
             </label>
             <input
               type="password"
-              placeholder="Marry Doe"
+              placeholder="Enter password"
+              required
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none"
             />
           </div>
@@ -63,8 +67,10 @@ function Signup() {
               Company name
             </label>
             <input
+            
               type="text"
-              placeholder="Marry Doe"
+              placeholder="Enter company name"
+              required
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none"
             />
           </div>
@@ -76,6 +82,7 @@ function Signup() {
             <div className="flex items-center gap-6">
               <label className="flex items-center gap-2 text-sm">
                 <input
+                required
                   type="radio"
                   name="agency"
                   className="accent-purple-600"
